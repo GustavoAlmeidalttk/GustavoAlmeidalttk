@@ -5,5 +5,5 @@
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]([https//:]())
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagan-lttk&layout=donut)](https://github.com/Lagan-lttk/github-readme-stats)
-![Lagan-lttk GitHub stats](https://github-readme-stats.vercel.app/api?username=Lagan-lttk&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlmeidalttkk&layout=donut)](https://github.com/GustavoAlmeidalttk/github-readme-stats)
+![GustavoAlmeidalttk GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoAlmeidalttk&show_icons=true&theme=tokyonight)
